@@ -1,1 +1,1 @@
-# INTEGRATED_WITH_RSTUDIO
+# https://happygitwithr.com
